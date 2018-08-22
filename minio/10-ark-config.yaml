@@ -34,5 +34,5 @@ backupStorageProvider:
   config:
     region: minio
     s3ForcePathStyle: "true"
-    s3Url: http://minio.heptio-ark.svc:9000
+    s3Url: http://minio:9000
 
